@@ -7,7 +7,7 @@
 - 🤔 My hobbies are multiplayer games and playing with my cat;
 - 💼 I'm interleaving learning between programming and english to position myself well in the job market;
 - 💬 Ask me anything, i love helping people;
-- 📫 Need to find me? Send a e-mail to jonathanlmanhaes@gmail.com;
+- 📫 Need to find me? Send an e-mail to jonathanlmanhaes@gmail.com;
 - 📝 See my curriculum <a href="https://gitconnected.com/jonmanhaes/resume" target="_blank">clicking here</a> to more informations.
 
 <a href="https://www.linkedin.com/in/jonathanlimamanhaes/" target="_blank">

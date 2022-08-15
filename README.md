@@ -2,7 +2,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonmanhaes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### about me
-I'm a fullstack developer student at trybe
+- 👨🏽‍💻 I'm studying programming and development at trybe;
+- 🌱 I'm learning SOLID architecture to improve my back-end skills; 
+- 🤔 My hobbies are multiplayer games and playing with my cat;
+- 💼 I'm interleaving learning between programming and english to position myself well in the job market;
+- 💬 Ask me anything, i love helping people;
+- 📫 Need to find me? Send a e-mail to jonathanlmanhaes@gmail.com;
+- 📝 See my curriculum <a href="https://gitconnected.com/jonmanhaes/resume" target="_blank">clicking here</a> to more informations.
 
 <a href="https://www.linkedin.com/in/jonathanlimamanhaes/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">

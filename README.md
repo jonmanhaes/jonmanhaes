@@ -8,7 +8,14 @@
 ### about me
 I'm a fullstack developer student at trybe
 
-**languages and tools:**  
+<a href="https://www.linkedin.com/in/jonathanlimamanhaes/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+<a href="https://github.com/jonmanhaes" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a>
+
+### languages and tools:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

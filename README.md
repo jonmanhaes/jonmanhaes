@@ -1,6 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonmanhaes&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonmanhaes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
+
 ### about me
 - 👨🏽‍💻 I'm studying programming and development at trybe;
 - 🌱 I'm learning SOLID architecture to improve my back-end skills; 
@@ -10,6 +12,7 @@
 - 📫 Need to find me? Send an e-mail to jonathanlmanhaes@gmail.com;
 - 📝 See my curriculum <a href="https://gitconnected.com/jonmanhaes/resume" target="_blank">clicking here</a> to more informations.
 
+### my network social profiles
 <a href="https://www.linkedin.com/in/jonathanlimamanhaes/" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
@@ -17,7 +20,7 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 
-### languages and tools:
+### languages and tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -37,3 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
+
+<br />
+<br />
+
+⭐️ based in [CallmeMehdi](https://github.com/CallmeMehdi)
